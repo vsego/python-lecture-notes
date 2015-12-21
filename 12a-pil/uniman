@@ -1,0 +1,1 @@
+./uniman.py && convert img000*png -delay 20 -dispose 2 uniman.gif && rm -f img*.png

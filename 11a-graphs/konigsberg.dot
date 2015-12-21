@@ -1,0 +1,9 @@
+graph  {
+	B -- A [key=0];
+B -- A [key=1];
+B -- D [key=0];
+C -- A [key=0];
+C -- A [key=1];
+C -- D [key=0];
+A -- D [key=0];
+}

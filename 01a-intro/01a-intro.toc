@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.32pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Basics}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{The course and the lecturer}{4}{0}{1}
+\beamer@sectionintoc {2}{Aims of the course}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Where does this course stand}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{A note on the language}{14}{0}{2}
+\beamer@subsectionintoc {2}{3}{Lectures and lab classes}{16}{0}{2}
+\beamer@subsectionintoc {2}{4}{Marking}{17}{0}{2}
+\beamer@sectionintoc {3}{How to tackle this course}{18}{0}{3}
+\beamer@sectionintoc {4}{Some final remarks}{37}{0}{4}
+\beamer@subsectionintoc {4}{1}{Asking for help}{38}{0}{4}
+\beamer@subsectionintoc {4}{2}{Useful references}{41}{0}{4}
