@@ -1,3 +1,7 @@
+# Programming with Python (MATH20622)
+
+## Lecture notes from the course taught at the [University of Manchester](http://www.manchester.ac.uk/) in the academic year 2014/15.
+
 Notes:
 
 The exercises are meant to be solved at home, prior to lab classes. Lab classes problems are meant to be solved by students during the lab classes (and finished at home), but you are welcome to try them at home as well.
