@@ -1,0 +1,14 @@
+\frametitle{\MYTITLECOLOUR {Homework}}
+\begin{itemize}
+  \item Install Python 3 (the instructions are on the course web site) on your home computer.
+  \item Try running this program to verify that your Python installation works properly:
+    \begin{lstlisting}
+    import this
+    \end{lstlisting}
+    Yes, there is only one line and there are no interpunctions. \par
+    It should print a poem ``The Zen of Python'', by Tim Peters.
+    \onslide<2->
+    And yes, there is some weird humor in Python. After all, it was named after (somewhat famous) Monty Python. \par
+    \onslide<3->
+    But don't worry, none of it affects ``real'' programming\dots
+\end{itemize}
